@@ -1,1 +1,6 @@
  
+Here is the information you asked for, I was able to get a bit more background as well. The unit was originally an alpha unit that was sitting unused and thus Matthew Cusack thought it would be a better idea for it to be in use somewhere than collecting dust. So it was given/loaned to us to use here at RPI in Dan Lewis's Fuel Cell and Hydrogen research lab. Initially it worked great, and was used all the way through a Master thesis project and for a bit afterwards. However, it sat for a few months between projects and the next time it was going to be used it would turn on, and connect, but when the power was ramped on it would fault. 
+
+ I was not involved in the original discovery of this problem, however, as I manage most of the lab equipment I was asked to take a look into the problem more carefully. When I correctly set the operating parameters in the XOS control software (X-beam Utility Version 0.9 Beta) the ramp would start, then halt, then shut itself off. 
+
+I traced out the door interlock system, and couldn't locate any fault, the interlock relay doesn't change during operation, however, there is a slightly click from inside the main HEnry box, perhaps a different relay activating?
